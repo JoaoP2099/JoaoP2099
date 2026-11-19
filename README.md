@@ -5,7 +5,7 @@
 </div>
 
 #### 👓 Me chamo João Pedro!
-#### 📚 Sou Estudante de Engenharia de Software e Física 
+#### 📚 Sou Estudante de Engenharia de Software
 #### 🎮 Aprendendo algumas tecnologias para iniciar no desenvolvimento de jogos que é uma das minhas paixões!
 
 [Linkedin ]()| 📧 [e-mail]() 
